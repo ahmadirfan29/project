@@ -17,6 +17,7 @@ import {
     FantasyBookIcon,
     HistoryIcon
 } from '../components/icons/Icons.tsx';
+} from './components/icons/Icons.tsx';
 
 
 export const INTERESTS = [
