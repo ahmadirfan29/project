@@ -16,7 +16,7 @@ import {
     TreasureMapIcon,
     FantasyBookIcon,
     HistoryIcon
-} from '../components/icons/Icons';
+} from '../components/icons/Icons.tsx';
 
 
 export const INTERESTS = [
